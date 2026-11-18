@@ -1,0 +1,1 @@
+// Controlar o processo de captura e reconhecimento

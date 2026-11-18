@@ -1,0 +1,1 @@
+// Responsavel pelas regras de negocio relacionadas a hidratacao

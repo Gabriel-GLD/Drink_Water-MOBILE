@@ -1,0 +1,1 @@
+// Responsavel pelas operacoes realacionadas as fotografias 

@@ -1,0 +1,1 @@
+// Mostra se a IA encontrou o recipiente de agua da imagem capturada

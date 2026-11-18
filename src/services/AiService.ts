@@ -1,0 +1,1 @@
+// Arquivo responsavel pela IA do app
